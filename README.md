@@ -1,2 +1,2 @@
-# jupyter_notebook_pandas_examples
+# coursera python data analysis
 Pandas Example With Jupyter Notebook
